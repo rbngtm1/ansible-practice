@@ -69,6 +69,7 @@ sudo vi /etc/ansible/ansible.cfg
 ```vi
 # uncomment this to disable SSH key host checking
 host_key_checking = False
+uncomment inventory
 ```
 
 
